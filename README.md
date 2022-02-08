@@ -2,7 +2,7 @@
 
 News App made with next.js. It uses an API to fetch the latest news from various sources. It also has dark and light mode.
 
-## Tecnologies Used
+## Technologies Used
 
 - Next.js
 - Styled Components
@@ -13,6 +13,7 @@ News App made with next.js. It uses an API to fetch the latest news from various
 
 [Ana Cláudia Tavares](https://www.linkedin.com/in/ana-cl%C3%A1udia-tavares-a842a6102/)
 
+## 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
